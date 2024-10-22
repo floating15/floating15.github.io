@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haoming18.github.io/sitemap.xml
+Sitemap: https://floating15.github.io/sitemap.xml
